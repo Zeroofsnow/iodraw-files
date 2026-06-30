@@ -40,7 +40,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ichV_que4rtCiCaHmIw-11" value="&lt;b&gt;第二阶段：专项培训&lt;/b&gt;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="5ichV_que4rtCiCaHmIw-11" value="第二阶段：专项培训" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="896" width="1578" height="218" as="geometry" />
         </mxCell>
         <mxCell id="5ichV_que4rtCiCaHmIw-12" value="培训内容涵盖六大模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="5ichV_que4rtCiCaHmIw-11">
