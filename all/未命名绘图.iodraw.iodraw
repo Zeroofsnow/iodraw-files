@@ -72,8 +72,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ichV_que4rtCiCaHmIw-21" value="第一阶段：项目启动沟通会" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="656" y="211" width="306" height="635" as="geometry" />
+        <mxCell id="5ichV_que4rtCiCaHmIw-21" value="第一阶段：项目启动沟通会" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="657" y="211" width="306" height="635" as="geometry" />
         </mxCell>
         <mxCell id="5ichV_que4rtCiCaHmIw-22" value="组织所有团队成员&#xa;召开项目启动沟通会" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5ichV_que4rtCiCaHmIw-21">
           <mxGeometry x="59" y="46" width="204" height="66" as="geometry" />
