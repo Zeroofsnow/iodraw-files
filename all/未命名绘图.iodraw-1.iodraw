@@ -22,10 +22,10 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-111" value="异常预警&#xa;及时上报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="657" width="124" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-112" value="安全库存&#xa;预警线触发" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-112" value="安全库存&#xa;预警线触发" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="269" y="345" width="146" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-113" value="立即启动&#xa;采购流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-113" value="立即启动&#xa;采购流程" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="541" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-114" value="库存恢复至&#xa;安全水平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
