@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-1" value="工程师缺件" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-1" value="工程师缺件" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="243" y="10" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-2" value="本地仓库库存查询" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
@@ -122,9 +122,6 @@
               <mxPoint x="438" y="812" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-26" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="341" y="1020" width="55" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
