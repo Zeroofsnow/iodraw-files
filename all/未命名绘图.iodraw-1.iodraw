@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-1" value="工程师缺件" style="whiteSpace=wrap;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-1" value="工程师缺件" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="243" y="10" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-2" value="本地仓库库存查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-2" value="本地仓库库存查询" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="219" y="108" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-3" value="本地有货?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
