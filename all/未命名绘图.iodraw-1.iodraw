@@ -126,18 +126,6 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-26" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="341" y="1020" width="55" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-30" value="办理领用出库手续" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2245" width="188" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-38" value="第三步：缺件订货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="767" y="1897" width="188" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-39" value="技术主管联系原厂或&#xa;中国备件中心下单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="759" y="2004" width="204" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-40" value="确定预计到货时间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="767" y="2129" width="188" height="48" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
