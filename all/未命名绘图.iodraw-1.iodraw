@@ -7,10 +7,10 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-1" value="工程师缺件" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="243" y="10" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-2" value="本地仓库库存查询" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-2" value="本地仓库库存查询" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="219" y="108" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-3" value="本地有货?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-3" value="本地有货?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="128.5" y="190" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-4" value="内部调拨&#xa;提交申请+电话通知" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
