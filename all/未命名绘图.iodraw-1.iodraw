@@ -7,10 +7,10 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-106" value="季度评审机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="242" height="428" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-107" value="即时补库机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-107" value="即时补库机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="234" y="320" width="216" height="428" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-108" value="周盘点机制" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-108" value="周盘点机制" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=center;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="194" height="428" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-109" value="每周盘点&#xa;专用库存" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
