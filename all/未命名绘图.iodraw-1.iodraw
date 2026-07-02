@@ -19,10 +19,10 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-5" value="其他仓库有?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="181.5" y="370" width="135" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-6" value="跨仓调拨&#xa;紧急发货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-6" value="跨仓调拨&#xa;紧急发货" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="187" y="552" width="124" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-7" value="联系原厂/备件中心&#xa;紧急下单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-7" value="联系原厂/备件中心&#xa;紧急下单" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="590" y="605" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-8" value="仓库1h内顺丰发货&#xa;同步运单号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -108,7 +108,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-24" value="节假日" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.83;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-2" target="FpOrp2WCMJX2xG10IMTn-12">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-24" value="节假日" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.83;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontStyle=1" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-2" target="FpOrp2WCMJX2xG10IMTn-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="438" y="182" />
