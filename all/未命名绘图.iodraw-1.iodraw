@@ -10,13 +10,13 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-2" value="本地仓库库存查询" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="219" y="108" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-3" value="本地有货?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-3" value="本地有货?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="128.5" y="190" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-4" value="内部调拨&#xa;提交申请+电话通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="721" width="196" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-5" value="其他仓库有?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-5" value="其他仓库有?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="181.5" y="370" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-6" value="跨仓调拨&#xa;紧急发货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
