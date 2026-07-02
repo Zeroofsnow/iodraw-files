@@ -14,13 +14,13 @@
           <mxGeometry x="128.5" y="190" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-4" value="内部调拨&#xa;提交申请+电话通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="721" width="196" height="66" as="geometry" />
+          <mxGeometry x="90" y="671" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-5" value="其他仓库有?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="181.5" y="370" width="135" height="135" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-6" value="跨仓调拨&#xa;紧急发货" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="187" y="605" width="124" height="66" as="geometry" />
+          <mxGeometry x="187" y="552" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-7" value="联系原厂/备件中心&#xa;紧急下单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="590" y="605" width="196" height="66" as="geometry" />
