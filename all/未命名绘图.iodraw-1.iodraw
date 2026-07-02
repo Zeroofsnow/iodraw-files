@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-106" value="季度评审机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-106" value="季度评审机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="242" height="428" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-107" value="即时补库机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-107" value="即时补库机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="234" y="320" width="216" height="428" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-108" value="周盘点机制" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;align=center;verticalAlign=top;" vertex="1" parent="1">
