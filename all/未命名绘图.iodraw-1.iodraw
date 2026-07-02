@@ -11,7 +11,7 @@
           <mxGeometry x="219" y="108" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-3" value="本地有货?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="129" y="207" width="119" height="119" as="geometry" />
+          <mxGeometry x="128.5" y="190" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-4" value="内部调拨&#xa;提交申请+电话通知" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="721" width="196" height="66" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="438" y="182" />
-              <mxPoint x="460" y="450" />
+              <mxPoint x="450" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
