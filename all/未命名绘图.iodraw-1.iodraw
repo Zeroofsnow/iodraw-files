@@ -4,6 +4,91 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-87" value="多台设备同时故障&#xa;或大型集中保养" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="234" y="20" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-88" value="向技术主管&#xa;申请支援" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="258" y="136" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-89" value="评估全局任务&#xa;2h内调度就近工程师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="225" y="252" width="205" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-90" value="优先级划分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="264" y="368" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-91" value="第一优先&#xa;先处理停机设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="578" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-92" value="第二优先&#xa;后处理报警设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="242" y="578" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-93" value="第三优先&#xa;先保障常用设备&#xa;后处理备用设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="464" y="569" width="172" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-94" value="合理分配维修任务&#xa;分工执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="234" y="702" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-95" value="完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="282" y="818" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-87" target="FpOrp2WCMJX2xG10IMTn-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-88" target="FpOrp2WCMJX2xG10IMTn-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-89" target="FpOrp2WCMJX2xG10IMTn-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-99" value="停机设备" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-90" target="FpOrp2WCMJX2xG10IMTn-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="106" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-100" value="报警设备" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-90" target="FpOrp2WCMJX2xG10IMTn-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-101" value="常用/备用设备" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-90" target="FpOrp2WCMJX2xG10IMTn-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.13;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-91" target="FpOrp2WCMJX2xG10IMTn-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="106" y="677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-92" target="FpOrp2WCMJX2xG10IMTn-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.13;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-93" target="FpOrp2WCMJX2xG10IMTn-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-94" target="FpOrp2WCMJX2xG10IMTn-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
