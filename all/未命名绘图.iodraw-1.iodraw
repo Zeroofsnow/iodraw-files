@@ -13,7 +13,7 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-3" value="本地有货?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="128.5" y="190" width="119" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-4" value="内部调拨&#xa;提交申请+电话通知" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-4" value="内部调拨&#xa;提交申请+电话通知" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="721" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-5" value="其他仓库有?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -25,16 +25,16 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-7" value="联系原厂/备件中心&#xa;紧急下单" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="605" width="196" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-8" value="仓库1h内顺丰发货&#xa;同步运单号" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-8" value="仓库1h内顺丰发货&#xa;同步运单号" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="219" y="837" width="189" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="267" y="953" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-10" value="告知科室&#xa;预计到货时间+备案" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="721" width="196" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="643" y="846" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-12" value="微信申请→主管审批&#xa;→仓库加班发货" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -121,6 +121,91 @@
             <Array as="points">
               <mxPoint x="438" y="812" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-68" value="多台设备同时故障&#xa;或大型集中保养" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1020" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-69" value="向技术主管&#xa;申请支援" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="328" y="1136" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-70" value="评估全局任务&#xa;2h内调度就近工程师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1252" width="205" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-71" value="优先级划分" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1368" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-72" value="第一优先&#xa;先处理停机设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1578" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-73" value="第二优先&#xa;后处理报警设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="312" y="1578" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-74" value="第三优先&#xa;先保障常用设备&#xa;后处理备用设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="534" y="1569" width="172" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-75" value="合理分配维修任务&#xa;分工执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1702" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-76" value="完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1818" width="92" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-68" target="FpOrp2WCMJX2xG10IMTn-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-69" target="FpOrp2WCMJX2xG10IMTn-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-70" target="FpOrp2WCMJX2xG10IMTn-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-80" value="停机设备" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-71" target="FpOrp2WCMJX2xG10IMTn-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="176" y="1533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-81" value="报警设备" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-71" target="FpOrp2WCMJX2xG10IMTn-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-82" value="常用/备用设备" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-71" target="FpOrp2WCMJX2xG10IMTn-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.13;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-72" target="FpOrp2WCMJX2xG10IMTn-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="176" y="1677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-73" target="FpOrp2WCMJX2xG10IMTn-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.13;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-74" target="FpOrp2WCMJX2xG10IMTn-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-75" target="FpOrp2WCMJX2xG10IMTn-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
