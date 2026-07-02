@@ -19,10 +19,10 @@
         <mxCell id="FpOrp2WCMJX2xG10IMTn-91" value="第一优先&#xa;先处理停机设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="578" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-92" value="第二优先&#xa;后处理报警设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-92" value="第二优先&#xa;后处理报警设备" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="242" y="578" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-93" value="第三优先&#xa;先保障常用设备&#xa;后处理备用设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-93" value="第三优先&#xa;先保障常用设备&#xa;后处理备用设备" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="464" y="569" width="172" height="84" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-94" value="合理分配维修任务&#xa;分工执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -58,7 +58,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-101" value="常用/备用设备" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-90" target="FpOrp2WCMJX2xG10IMTn-93">
+        <mxCell id="FpOrp2WCMJX2xG10IMTn-101" value="常用/备用设备" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;fontStyle=1" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-90" target="FpOrp2WCMJX2xG10IMTn-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="533" />
