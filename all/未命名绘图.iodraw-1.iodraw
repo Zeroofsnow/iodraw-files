@@ -4,124 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-1" value="工程师缺件" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="243" y="10" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-2" value="本地仓库库存查询" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="219" y="108" width="188" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-3" value="本地有货?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="128.5" y="190" width="119" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-4" value="内部调拨&#xa;提交申请+电话通知" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="721" width="196" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-5" value="其他仓库有?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="181.5" y="370" width="135" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-6" value="跨仓调拨&#xa;紧急发货" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="187" y="552" width="124" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-7" value="联系原厂/备件中心&#xa;紧急下单" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="605" width="196" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-8" value="仓库1h内顺丰发货&#xa;同步运单号" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="219" y="837" width="189" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="267" y="953" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-10" value="告知科室&#xa;预计到货时间+备案" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="721" width="196" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="643" y="846" width="92" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-12" value="微信申请→主管审批&#xa;→仓库加班发货" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="336" y="721" width="204" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-1" target="FpOrp2WCMJX2xG10IMTn-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-2" target="FpOrp2WCMJX2xG10IMTn-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="188" y="182" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-15" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-3" target="FpOrp2WCMJX2xG10IMTn-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="137" y="362" />
-              <mxPoint x="137" y="696" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-16" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-3" target="FpOrp2WCMJX2xG10IMTn-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="249" y="362" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-17" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-5" target="FpOrp2WCMJX2xG10IMTn-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-18" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-5" target="FpOrp2WCMJX2xG10IMTn-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="689" y="569" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.68;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-6" target="FpOrp2WCMJX2xG10IMTn-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="249" y="696" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.12;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-4" target="FpOrp2WCMJX2xG10IMTn-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="188" y="812" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-8" target="FpOrp2WCMJX2xG10IMTn-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-7" target="FpOrp2WCMJX2xG10IMTn-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-10" target="FpOrp2WCMJX2xG10IMTn-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-24" value="节假日" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.83;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontStyle=1" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-2" target="FpOrp2WCMJX2xG10IMTn-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="438" y="182" />
-              <mxPoint x="450" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FpOrp2WCMJX2xG10IMTn-25" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.88;entryY=0;rounded=0;" edge="1" parent="1" source="FpOrp2WCMJX2xG10IMTn-12" target="FpOrp2WCMJX2xG10IMTn-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="438" y="812" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="FpOrp2WCMJX2xG10IMTn-68" value="多台设备同时故障&#xa;或大型集中保养" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304" y="1020" width="188" height="66" as="geometry" />
